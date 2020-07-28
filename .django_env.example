@@ -1,0 +1,7 @@
+DEBUG=True
+USER=devjulio
+PASSWORD=st4rw4r5us3r
+DATABASE=starwars
+HOST=starwars_db
+PORT=3306
+ALLOWED_HOSTS=*

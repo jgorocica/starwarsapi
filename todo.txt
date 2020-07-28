@@ -1,0 +1,31 @@
+To do: 
+
+- Create a docker and docker-compose file (*)
+- Setup the django env and see the welcome page! (*)
+- Install graphene and run migrations (*)
+- Create model with these features: 
+    a) Characters (*)
+        a.1) Movie's related (*)
+            a.1.1) Detail with text (*)
+            a.1.2) Planets  (*)
+            a.1.3) Directors (*)
+            a.1.4) Producers (*)
+            a.1.5) published_at (*)
+- Create and run migrations (*)
+- Setup credentials to Django Admin (*)
+- Design and import classes to Django Admin (*)
+- Fill the tables with some data (*) 
+- Config django project to set Graphene schemas (*) 
+- Create list and test GraphQl (*)
+- Add filter to list (*)
+- Add mutations to allow submit data (*)
+    a.1) Planets (*)
+    a.2) Movies (*)
+    a.3) Characters (*)  
+- Unit testing and validations 
+    a.1) Queries (*)  
+    a.2) Mutations (*)  
+- Dump data into fixtures (*) 
+- Upload to github (*) 
+
+    
