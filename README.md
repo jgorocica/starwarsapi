@@ -1,6 +1,6 @@
 # Star Wars API 
 
-Este es un repositorio creado para aplicar a la vacante de desarrollador backend en Python de *Lo Que Necesito*.
+Este es un repositorio creado para jugar con GraphQL y Python*.
 
 
 ## Usar el proyecto con Docker 🐳
